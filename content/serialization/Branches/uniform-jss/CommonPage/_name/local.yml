@@ -1,8 +1,8 @@
 ﻿---
-ID: "143c02e9-41e5-4803-a702-42d3bf01c141"
-Parent: "0faa6199-bb54-455b-bacc-3b018c3fac1e"
+ID: "c62f8ae4-5ec5-44d6-b6a8-f253c502f565"
+Parent: "65fbfcfe-f621-4777-9c6a-0fa1265a2f1d"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: "/sitecore/content/uniform-jss/Home/About/local"
+Path: "/sitecore/templates/Branches/Project/uniform-jss/CommonPage/$name/local"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
@@ -19,4 +19,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200304T235806Z
+      Value: 20200730T152202Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

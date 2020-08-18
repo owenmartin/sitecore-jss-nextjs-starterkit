@@ -1,9 +1,10 @@
 ﻿---
-ID: "f5461277-f3b0-44c3-bbb0-1b38ccb6709a"
-Parent: "143c02e9-41e5-4803-a702-42d3bf01c141"
+ID: "c7113fed-9896-41cf-910b-eebcd9be41fd"
+Parent: "91b10a15-16de-4015-a4cd-9b0c2e8224fd"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: "/sitecore/content/uniform-jss/Home/About/local/heros"
+Path: "/sitecore/content/uniform-jss/Home/Security/local/heros"
 DB: master
+BranchID: "97ae4e42-cd04-40b9-97d0-5d6950d20e7b"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -12,6 +13,9 @@ SharedFields:
   Hint: __Masters
   Type: TreelistEx
   Value: "{DD6D4B50-2296-4146-9F48-7C61FF989E07}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EAC461E2-DBF1-4231-BAE2-8D76241FD0BE}"
 Languages:
 - Language: en
   Fields:
@@ -23,4 +27,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200304T235839Z
+      Value: 20200731T025814Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
